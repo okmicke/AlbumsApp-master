@@ -1,0 +1,29 @@
+
+#errorArea {
+  display: none;
+}
+
+.inputValue {
+  font-weight: 800;
+}
+
+.first-row {
+  margin: 1em;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.footer {
+  margin-top: 10em;
+}
+
+a.external {
+  color: rgb(100, 100, 225);
+}
+
+a.external:hover{
+  color: rgb(150, 150, 255);
+  text-decoration: none;
+}
